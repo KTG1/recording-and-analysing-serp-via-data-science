@@ -1,5 +1,8 @@
-# recording-and-analysing-serp-via-data-science
+# Retrieve Google SERP for Analyzing the Google Algorithms, SEO Competitors with Data Science
+
 This Repisotory was developed to contribute as Holistic SEO &amp; Digital to RankSense's efforts to make Python Development and Data Science and Robotic Automation Process (RPA) a culture in the Search Engine Optimization Ecosystem.
+
+These two notebooks are an introduction for the Data Science and Visualization for SEO.
 
 ## In the Memory of Dear Hamlet Batista
 
