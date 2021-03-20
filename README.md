@@ -19,4 +19,5 @@ But we have performed the same webinar with Dear Elias Dabbas who made me start 
 ![RankSense Webinar](https://pbs.twimg.com/media/EwNDmAUXEAg1bkA?format=jpg&name=medium)
 
 The webinar for the Data Science, Visualization and SEO has been published with Koray Tuğberk GÜBÜR and Elias Dabbas, you can watch it as below.
-[![SEO and Data Science Webinar](https://img.youtube.com/vi/WS3vwRLA28w/0.jpg)](https://www.youtube.com/watch?v=WS3vwRLA28w)
+<br>
+[![Data Science and SEO](http://img.youtube.com/vi/WS3vwRLA28w/0.jpg)](http://www.youtube.com/watch?v=WS3vwRLA28w "Data Science, Visualization and SEO Webinar")
